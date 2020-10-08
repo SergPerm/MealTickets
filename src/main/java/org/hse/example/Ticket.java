@@ -26,7 +26,7 @@ public class Ticket implements MealTicket {
     }
 
     /**
-     * Разбирает поступивший номер билета на цифрй и сохраняет их в массив
+     * Разбирает поступивший номер билета на цифры и сохраняет их в массив
      * @param ticket номер билета
      */
     private void fill(long ticket) {
